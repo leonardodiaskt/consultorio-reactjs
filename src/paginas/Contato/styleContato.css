@@ -1,0 +1,22 @@
+.contato-container {
+  padding-top: 90px;
+}
+
+.lista-dentistas {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 30px;
+  justify-content: center;
+}
+
+.lista-dentistas li {
+  list-style: none;
+  max-width: 300px;
+  padding: 10px 20px;
+}
+
+.lista-dentistas li img {
+  width: 150px;
+  height: 150px;
+  border-radius: 75px;
+}
